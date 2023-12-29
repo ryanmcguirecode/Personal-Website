@@ -16,7 +16,35 @@
   }
 }
 
-body {
+h1 {
+  font-size: xx-large;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+h2 {
+  font-size: x-large;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+li {
+  font-size: large;
+  margin-left: 10%
+}
+
+a {
+  color: blue
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+
+/* body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
       to bottom,
@@ -24,4 +52,4 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
