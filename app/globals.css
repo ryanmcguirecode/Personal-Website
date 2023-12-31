@@ -43,6 +43,9 @@ a:hover {
   text-decoration: underline;
 }
 
+div {
+  padding-bottom: 20px;
+}
 
 /* body {
   color: rgb(var(--foreground-rgb));
